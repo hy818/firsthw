@@ -1,5 +1,5 @@
 #first {
-    background-image: url("firsthw/pond1.jpg");
+    background-image: url("pond1.jpg");
     min-height: 600px;
     background-attachment: fixed;
     background-position: center;
@@ -8,7 +8,7 @@
 }
 
 #second {
-    background-image: url("firsthw/pond2.jpg");
+    background-image: url("pond2.jpg");
     min-height: 700px;
     background-attachment: fixed;
     background-position: center;
@@ -17,7 +17,7 @@
 }
 
 #third {
-    background-image: url("firsthw/pond3.png");
+    background-image: url("pond3.png");
     min-height: 650px;
     background-attachment: fixed;
     background-position: center;
